@@ -1,0 +1,1 @@
+docker run -p 8888:8888 -p 4040:4040 -it --user root -v c://Users/Ibrahim:/home/jovyan/work jupyter/pyspark-notebook start.sh jupyter lab
